@@ -46,5 +46,6 @@
 </ol>
 <form action ="/submit-cat-photo">
   <input type="text" placeholder="cat photo URL">
+  <button type="submit">submit</button>
 </form>
 
