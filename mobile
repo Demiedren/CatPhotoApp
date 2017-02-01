@@ -45,6 +45,8 @@
   <li>outside</li>
 </ol>
 <form action ="/submit-cat-photo">
+  <label><input type="radio" name="indoor-outdoor"> indoor</label>
+  <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
   <input type="text" placeholder="cat photo URL" required>
   <button type="submit">submit</button>
 </form>
