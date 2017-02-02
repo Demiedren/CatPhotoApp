@@ -45,9 +45,9 @@
   <li>outside</li>
 </ol>
 <form action ="/submit-cat-photo">
-  <label><input type="radio" name="indoor-outdoor"> indoor</label>
+  <label><input type="radio" name="indoor-outdoor" checked> indoor</label>
   <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
-  <label><input type="checkbox" name="personality"> Loving</label>
+  <label><input type="checkbox" name="personality" checked> Loving</label>
   <label><input type="checkbox" name="personality"> Nosey</label>
   <label><input type="checkbox" name="personality"> Shy</label>
   <input type="text" placeholder="cat photo URL" required>
